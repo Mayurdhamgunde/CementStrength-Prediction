@@ -11,9 +11,6 @@ Exciting breakthroughs in #ConstructionTech! 🔍 Researchers have developed adv
 # 📸Snapshots : - 
 
 <img alt="GIF" src="https://github.com/Mayurdhamgunde/CementStrength-Prediction/blob/master/Images/1.png?raw=true" width="90%"/>
-<br>
 <img alt="GIF" src="https://github.com/Mayurdhamgunde/CementStrength-Prediction/blob/master/Images/2.png?raw=true" width="90%"/>
-<br>
 <img alt="GIF" src="https://github.com/Mayurdhamgunde/CementStrength-Prediction/blob/master/Images/3.png?raw=true" width="90%"/>
-<br>
 <img alt="GIF" src="https://github.com/Mayurdhamgunde/CementStrength-Prediction/blob/master/Images/4.png?raw=true" width="90%"/>
